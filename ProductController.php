@@ -145,4 +145,3 @@ class CacheCountInFile implements CacheProductCount
         }
     }
 }
-
